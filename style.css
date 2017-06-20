@@ -1,0 +1,15 @@
+body {
+  padding: 100px;
+  background-color: grey;
+}
+
+.buttons {
+  cursor: pointer;
+  display: block;
+}
+
+.deg-button {
+  background-color: #5b90e5;
+  color: white;
+}
+
